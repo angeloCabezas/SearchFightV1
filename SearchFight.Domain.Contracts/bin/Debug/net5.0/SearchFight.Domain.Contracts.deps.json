@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SearchFight.Domain.Contracts/1.0.0": {
+        "dependencies": {
+          "SearchFight.Domain.Entities": "1.0.0"
+        },
+        "runtime": {
+          "SearchFight.Domain.Contracts.dll": {}
+        }
+      },
+      "SearchFight.Domain.Entities/1.0.0": {
+        "runtime": {
+          "SearchFight.Domain.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SearchFight.Domain.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchFight.Domain.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

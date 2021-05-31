@@ -1,0 +1,17 @@
+D:\VisualStudio\Git\SearchFightV1\SearchFight.Domain\bin\Debug\net5.0\SearchFight.Domain.Contracts.dll
+D:\VisualStudio\Git\SearchFightV1\SearchFight.Domain\bin\Debug\net5.0\SearchFight.Domain.Entities.dll
+D:\VisualStudio\Git\SearchFightV1\SearchFight.Domain\obj\Debug\net5.0\SearchFight.Domain.csprojAssemblyReference.cache
+D:\VisualStudio\Git\SearchFightV1\SearchFight.Domain\obj\Debug\net5.0\SearchFight.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Git\SearchFightV1\SearchFight.Domain\obj\Debug\net5.0\SearchFight.Domain.AssemblyInfoInputs.cache
+D:\VisualStudio\Git\SearchFightV1\SearchFight.Domain\obj\Debug\net5.0\SearchFight.Domain.AssemblyInfo.cs
+D:\VisualStudio\Git\SearchFightV1\SearchFight.Domain\obj\Debug\net5.0\SearchFight.Domain.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Git\SearchFightV1\SearchFight.Domain\bin\Debug\net5.0\SearchFight.Domain.deps.json
+D:\VisualStudio\Git\SearchFightV1\SearchFight.Domain\bin\Debug\net5.0\SearchFight.Domain.dll
+D:\VisualStudio\Git\SearchFightV1\SearchFight.Domain\bin\Debug\net5.0\ref\SearchFight.Domain.dll
+D:\VisualStudio\Git\SearchFightV1\SearchFight.Domain\bin\Debug\net5.0\SearchFight.Domain.pdb
+D:\VisualStudio\Git\SearchFightV1\SearchFight.Domain\bin\Debug\net5.0\SearchFight.Domain.Contracts.pdb
+D:\VisualStudio\Git\SearchFightV1\SearchFight.Domain\bin\Debug\net5.0\SearchFight.Domain.Entities.pdb
+D:\VisualStudio\Git\SearchFightV1\SearchFight.Domain\obj\Debug\net5.0\SearchFight.Domain.csproj.CopyComplete
+D:\VisualStudio\Git\SearchFightV1\SearchFight.Domain\obj\Debug\net5.0\SearchFight.Domain.dll
+D:\VisualStudio\Git\SearchFightV1\SearchFight.Domain\obj\Debug\net5.0\ref\SearchFight.Domain.dll
+D:\VisualStudio\Git\SearchFightV1\SearchFight.Domain\obj\Debug\net5.0\SearchFight.Domain.pdb
